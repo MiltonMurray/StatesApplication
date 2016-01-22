@@ -26,5 +26,6 @@ public class Array {
             //read in temporary variables
         
         //initialize each variable with the States contructor
-    }
+        
+    }//end loadArray()
 }
