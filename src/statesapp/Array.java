@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package statesapp;
 
 import java.io.File;
@@ -14,7 +10,7 @@ import java.lang.*;
  * @author milto_000
  */
 public class Array {
-
+    
     public static void loadArray(States[] usa) throws Exception {
         // a loop counter
         int i;
@@ -39,7 +35,7 @@ public class Array {
 
             //initialize each variable with the States contructor
             usa[i] = new States(st, ca, pop);
-        }
+        }//end for
         infile.close();
     }//end loadArray()
-}
+}//end class Array
