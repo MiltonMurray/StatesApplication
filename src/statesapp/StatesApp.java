@@ -1,15 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*******************************************************************************
+ * Final Project- Comparison of Sorting Algorithms
+ * CSCI 112 Fall 2015 
+ * Last edited December 1, 7:00 p.m.
+ * @author Milton Murray
+ ******************************************************************************/
 package statesapp;
 
 import java.util.*;
 import java.lang.*;
 
-/**
- * *****************************************************************************
+/*******************************************************************************
  * Create a software package as a NetBeans project that contains three classes:
  *      > an executable class for the project itself 
  *      > a class of states, with the properties name, capital, and population
@@ -27,10 +27,7 @@ import java.lang.*;
  * 
  * The main method should simply call the other methods in the class to show
  * that they work.
- *
- * @author milto_000
- *****************************************************************************
- */
+ ******************************************************************************/
 public class StatesApp {
    static States[] usa = new States[50]; // array of 50 States
 
