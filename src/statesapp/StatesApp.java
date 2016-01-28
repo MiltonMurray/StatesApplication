@@ -1,7 +1,7 @@
 /*******************************************************************************
- * Final Project- Comparison of Sorting Algorithms
- * CSCI 112 Fall 2015 
- * Last edited December 1, 7:00 p.m.
+ * States Application
+ * CSCI 211 Spring 2016 
+ * Last edited January 27, 10:00 p.m.
  * @author Milton Murray
  ******************************************************************************/
 package statesapp;
